@@ -1,9 +1,8 @@
 {
-  "name": "cloudbridge-app",
+  "name": "paas-app",
   "version": "1.0.0",
-  "description": "CloudBridge DevOps Platform App",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node app.js"
   }
 }
